@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(214, 235, 136);
+}
+
+h1{
+    font-family: monospace;
+    color: white;
+}
+
+img{
+    text-align: center;
+}
+
+a{
+    font-size: 65;
+    color: gold;
+}
+
+h3{
+    color: white;
+    font-size: 50px;
+    font-family: monospace;
+}
+
+
+.fundo{
+    background-image: url("https://wallpapers.com/images/hd/colorful-galaxy-from-mountain-peak-universal-lf0mowsu91o498q5.jpg");
+}
+
+.fundo_link{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRFXLvV0mHjFXWUlEpQtZIHkEH71i6d4CRqg&usqp=CAU);
+}
+
+.img_tamanho{
+    width: 500px;
+    height: 500px;
+}
